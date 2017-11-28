@@ -3,5 +3,5 @@ var customerName = "bob";
 
 func upperCaseCustomerName()
 {
-
+customerName.toUpperCase();
 }
