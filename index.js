@@ -8,5 +8,5 @@ return customerName = customerName.toUpperCase();
 
 fucntion setBestCustomer()
 {
-  bestCustomer = "not bob"
+  bestCustomer = "not bob";
 }
